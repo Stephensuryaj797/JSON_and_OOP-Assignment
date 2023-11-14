@@ -13,11 +13,11 @@ class Employee:
 
 
 employee_data = [
-    {"name": "Dinesh", "dob": "04/04/2001", "height": "6'0", "city": "Chittoor", "state": "AP"},
-    {"name": "Bhuvan", "dob": "02/02/2000", "height": "5'6", "city": "Tirupati", "state": "AP"},
-    {"name": "Chakri", "dob": "03/03/2000", "height": "6'2", "city": "Vellore", "state": "TN"},
-    {"name": "Harish", "dob": "04/04/2000", "height": "5'5", "city": "Chennai", "state": "TN"},
-    {"name": "Bobby", "dob": "05/05/2000", "height": "6'1", "city": "Chittoor", "state": "AP"},
+    {"name": "surya", "dob": "04/04/1997", "height": "6'0", "city": "Chittoor", "state": "AP"},
+    {"name": "saravana", "dob": "02/02/1998", "height": "5'6", "city": "Tirupati", "state": "AP"},
+    {"name": "gokul", "dob": "03/03/2000", "height": "6'2", "city": "Vellore", "state": "TN"},
+    {"name": "hari", "dob": "04/04/1996", "height": "5'5", "city": "Chennai", "state": "TN"},
+    {"name": "sathish", "dob": "05/05/1997", "height": "6'1", "city": "selam", "state": "AP"},
 ]
 
 with open("employee.json", "w") as file:
